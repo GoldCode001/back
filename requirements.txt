@@ -2,5 +2,3 @@ Flask==2.2.3
 Requests==2.31.0
 streamlit==1.27.2
 yt_dlp==2023.9.24
-~treamlit==1.21.0
-~treamlit==1.27.0
